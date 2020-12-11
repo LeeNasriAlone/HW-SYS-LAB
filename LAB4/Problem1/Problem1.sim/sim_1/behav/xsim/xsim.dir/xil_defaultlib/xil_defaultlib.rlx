@@ -1,0 +1,12 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/Vivado/Workspace/LAB4/Problem1/Problem1.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+D:/Vivado/Workspace/LAB4/Problem1/Problem1.srcs/sources_1/new/BCDcounter.v,1600600600,verilog,,D:/Vivado/Workspace/LAB4/Problem1/Problem1.srcs/sources_1/new/clockDiv.v,,BCDcounter,,,,,,,,
+D:/Vivado/Workspace/LAB4/Problem1/Problem1.srcs/sources_1/new/FIFOmemory.v,1600700437,verilog,,D:/Vivado/Workspace/LAB4/Problem1/Problem1.srcs/sources_1/new/clockDiv.v,,LIFObuffer,,,,,,,,
+D:/Vivado/Workspace/LAB4/Problem1/Problem1.srcs/sources_1/new/clockDiv.v,1600600223,verilog,,D:/Vivado/Workspace/LAB4/Problem1/Problem1.srcs/sources_1/new/hexTo7segment.v,,clockDiv,,,,,,,,
+D:/Vivado/Workspace/LAB4/Problem1/Problem1.srcs/sources_1/new/hexTo7segment.v,1600622743,verilog,,D:/Vivado/Workspace/LAB4/Problem1/Problem1.srcs/sources_1/new/quadSevenSeg.v,,hexTo7segment,,,,,,,,
+D:/Vivado/Workspace/LAB4/Problem1/Problem1.srcs/sources_1/new/quadSevenSeg.v,1600600238,verilog,,D:/Vivado/Workspace/LAB4/Problem1/Problem1.srcs/sources_1/new/singlePulser.v,,quadSevenSeg,,,,,,,,
+D:/Vivado/Workspace/LAB4/Problem1/Problem1.srcs/sources_1/new/singlePulser.v,1600600213,verilog,,D:/Vivado/Workspace/LAB4/Problem1/Problem1.srcs/sources_1/new/system.v,,singlePulser,,,,,,,,
+D:/Vivado/Workspace/LAB4/Problem1/Problem1.srcs/sources_1/new/system.v,1600600206,verilog,,,,system,,,,,,,,

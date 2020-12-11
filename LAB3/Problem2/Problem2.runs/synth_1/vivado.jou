@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Mon Sep 14 23:31:47 2020
+# Process ID: 10084
+# Current directory: D:/Vivado/Workspace/LAB3/Problem2/Problem2.runs/synth_1
+# Command line: vivado.exe -log singlePulser.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source singlePulser.tcl
+# Log file: D:/Vivado/Workspace/LAB3/Problem2/Problem2.runs/synth_1/singlePulser.vds
+# Journal file: D:/Vivado/Workspace/LAB3/Problem2/Problem2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source singlePulser.tcl -notrace

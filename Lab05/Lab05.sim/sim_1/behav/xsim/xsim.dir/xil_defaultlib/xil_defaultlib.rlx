@@ -1,0 +1,24 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/Vivado/Workspace/Lab05/Lab05.sim/sim_1/behav/xsim/glbl.v,1589077570,verilog,,,,glbl,,,,,,,,
+D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/Lab5Verilog/adder.v,1589077570,verilog,,D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/Lab5Verilog/alu.v,,adder,,,,,,,,
+D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/Lab5Verilog/alu.v,1589077570,verilog,,D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/new/clockDiv.v,,alu,,,,,,,,
+D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/Lab5Verilog/control.v,1589077570,verilog,,D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/Lab5Verilog/extender.v,,control,,,,,,,,
+D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/Lab5Verilog/extender.v,1589077570,verilog,,D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/Lab5Verilog/memory.v,,extender,,,,,,,,
+D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/Lab5Verilog/memory.v,1589077570,verilog,,D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/Lab5Verilog/mux2_1.v,,memory,,,,,,,,
+D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/Lab5Verilog/micropc.v,1589077570,verilog,,D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/new/singlePulser.v,,micropc,,,,,,,,
+D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/Lab5Verilog/mux2_1.v,1589077570,verilog,,D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/Lab5Verilog/nanocpu.v,,mux2_1,,,,,,,,
+D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/Lab5Verilog/nano_sc_system.v,1589077570,verilog,,D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/new/mockIO.v,,nano_sc_system,,,,,,,,
+D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/Lab5Verilog/nanocpu.v,1589077570,verilog,,D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/new/quadSevenSeg.v,,nanocpu,,,,,,,,
+D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/Lab5Verilog/regfile.v,1589077570,verilog,,D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/Lab5Verilog/rom.v,,regfile,,,,,,,,
+D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/Lab5Verilog/rom.v,1604390541,verilog,,D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/new/segmentDecoder.v,,rom,,,,,,,,
+D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/new/DFlipflop.v,1589077570,verilog,,D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/new/inputStabilizer.v,,DFlipFlop,,,,,,,,
+D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/new/clockDiv.v,1589077570,verilog,,D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/Lab5Verilog/control.v,,clockDiv,,,,,,,,
+D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/new/inputStabilizer.v,1589077570,verilog,,D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/Lab5Verilog/micropc.v,,inputStabilizer,,,,,,,,
+D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/new/quadSevenSeg.v,1589077570,verilog,,D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/Lab5Verilog/regfile.v,,quadSevenSeg,,,,,,,,
+D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/new/segmentDecoder.v,1589077570,verilog,,D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/Lab5Verilog/nano_sc_system.v,,hexTo7Segment,,,,,,,,
+D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/new/singlePulser.v,1589077570,verilog,,D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/new/alu_test.v,,singlePulser,,,,,,,,
+D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/new/alu_test.v,1589077570,verilog,,,,alu_test,,,,,,,,
+D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/new/mockIO.v,1589077570,verilog,,D:/Vivado/Workspace/Lab05/Lab05.srcs/sources_1/imports/new/DFlipflop.v,,mockIO,,,,,,,,

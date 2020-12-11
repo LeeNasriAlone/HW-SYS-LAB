@@ -1,0 +1,193 @@
+
+*** Running vivado
+    with args -log system.vdi -applog -m64 -product Vivado -messageDb vivado.pb -mode batch -source system.tcl -notrace
+
+
+
+****** Vivado v2020.1 (64-bit)
+  **** SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+  **** IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+    ** Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+source system.tcl -notrace
+Command: link_design -top system -part xc7a35tcpg236-1
+Design is defaulting to srcset: sources_1
+Design is defaulting to constrset: constrs_1
+INFO: [Device 21-403] Loading part xc7a35tcpg236-1
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 1113.914 ; gain = 0.000
+INFO: [Project 1-479] Netlist was created with Vivado 2020.1
+INFO: [Project 1-570] Preparing netlist for logic optimization
+Parsing XDC File [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc]
+CRITICAL WARNING: [Designutils 20-1307] Command 'Switches' is not supported in the xdc constraint file. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:11]
+WARNING: [Vivado 12-584] No ports matched 'sw[0]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:12]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:12]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'sw[0]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:13]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:13]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'sw[1]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:14]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:14]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'sw[1]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:15]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:15]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'sw[2]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:16]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:16]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'sw[2]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:17]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:17]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'sw[3]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:18]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:18]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'sw[3]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:19]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:19]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'sw[4]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:20]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:20]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'sw[4]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:21]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:21]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'sw[5]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:22]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:22]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'sw[5]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:23]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:23]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'sw[6]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:24]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:24]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'sw[6]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:25]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:25]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'sw[7]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:26]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:26]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'sw[7]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:27]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:27]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'seg[0]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:82]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:82]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'seg[0]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:83]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:83]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'seg[1]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:84]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:84]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'seg[1]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:85]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:85]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'seg[2]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:86]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:86]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'seg[2]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:87]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:87]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'seg[3]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:88]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:88]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'seg[3]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:89]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:89]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'seg[4]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:90]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:90]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'seg[4]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:91]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:91]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'seg[5]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:92]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:92]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'seg[5]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:93]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:93]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'seg[6]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:94]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:94]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'seg[6]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:95]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:95]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'dp'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:97]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:97]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'dp'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:98]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:98]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'an[0]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:100]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:100]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'an[0]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:101]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:101]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'an[1]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:102]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:102]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'an[1]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:103]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:103]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'an[2]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:104]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:104]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'an[2]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:105]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:105]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'an[3]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:106]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:106]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'an[3]'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:107]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:107]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'btnU'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:113]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:113]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'btnU'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:114]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:114]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'btnL'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:115]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:115]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'btnL'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:116]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:116]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'btnR'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:117]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:117]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'btnR'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:118]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:118]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'btnD'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:119]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:119]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+WARNING: [Vivado 12-584] No ports matched 'btnD'. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:120]
+CRITICAL WARNING: [Common 17-55] 'set_property' expects at least one object. [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc:120]
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+Finished Parsing XDC File [D:/Vivado/Workspace/SKILLTEST1/Problem1_Beer/Problem1_Beer.srcs/constrs_1/new/Basys3.xdc]
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1113.914 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+5 Infos, 48 Warnings, 49 Critical Warnings and 0 Errors encountered.
+link_design completed successfully
+link_design: Time (s): cpu = 00:00:09 ; elapsed = 00:00:12 . Memory (MB): peak = 1113.914 ; gain = 0.000
+Command: opt_design
+Attempting to get a license for feature 'Implementation' and/or device 'xc7a35t'
+INFO: [Common 17-349] Got license for feature 'Implementation' and/or device 'xc7a35t'
+Running DRC as a precondition to command opt_design
+
+Starting DRC Task
+INFO: [DRC 23-27] Running DRC with 2 threads
+ERROR: [DRC MDRV-1] Multiple Driver Nets: Net Counter/led_OBUF[9] has multiple drivers: Counter/round_reg/Q, and Counter/round_reg__0/Q.
+INFO: [Project 1-461] DRC finished with 1 Errors
+INFO: [Project 1-462] Please refer to the DRC report (report_drc) for more information.
+ERROR: [Vivado_Tcl 4-78] Error(s) found during DRC. Opt_design not run.
+
+Time (s): cpu = 00:00:02 ; elapsed = 00:00:01 . Memory (MB): peak = 1113.914 ; gain = 0.000
+INFO: [Common 17-83] Releasing license: Implementation
+10 Infos, 48 Warnings, 49 Critical Warnings and 2 Errors encountered.
+opt_design failed
+ERROR: [Common 17-39] 'opt_design' failed due to earlier errors.
+
+INFO: [Common 17-206] Exiting Vivado at Tue Nov 10 14:37:15 2020...

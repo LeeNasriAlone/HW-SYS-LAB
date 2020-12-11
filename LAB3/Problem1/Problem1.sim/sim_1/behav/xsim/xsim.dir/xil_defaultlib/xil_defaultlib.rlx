@@ -1,0 +1,11 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/Vivado/Workspace/LAB3/Problem1/Problem1.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+D:/Vivado/Workspace/LAB3/Problem1/Problem1.srcs/sim_1/new/Test_BCDcounter.v,1600151651,verilog,,,,Test_BCDcounter,,,,,,,,
+D:/Vivado/Workspace/LAB3/Problem1/Problem1.srcs/sources_1/new/BCDcounter.v,1600151111,verilog,,D:/Vivado/Workspace/LAB3/Problem1/Problem1.srcs/sim_1/new/Test_BCDcounter.v,,BCDcounter,,,,,,,,
+D:/Vivado/Workspace/LAB3/Problem1/Problem1.srcs/sources_1/new/clockdiv.v,1600091152,verilog,,D:/Vivado/Workspace/LAB3/Problem1/Problem1.srcs/sources_1/new/quadSevenSeg.v,,clockDiv,,,,,,,,
+D:/Vivado/Workspace/LAB3/Problem1/Problem1.srcs/sources_1/new/quadSevenSeg.v,1600091005,verilog,,D:/Vivado/Workspace/LAB3/Problem1/Problem1.srcs/sources_1/new/segDecode.v,,quadSevenSeg,,,,,,,,
+D:/Vivado/Workspace/LAB3/Problem1/Problem1.srcs/sources_1/new/segDecode.v,1600091059,verilog,,D:/Vivado/Workspace/LAB3/Problem1/Problem1.srcs/sources_1/new/system.v,,hexTo7segment,,,,,,,,
+D:/Vivado/Workspace/LAB3/Problem1/Problem1.srcs/sources_1/new/system.v,1600091172,verilog,,,,system,,,,,,,,

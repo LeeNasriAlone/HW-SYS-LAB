@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Problem3.srcs/sources_1/new/BCDcounter.v" \
+"../../../../Problem3.srcs/sources_1/new/clockDiv.v" \
+"../../../../Problem3.srcs/sources_1/new/hexTo7segment.v" \
+"../../../../Problem3.srcs/sources_1/new/quadSevenSeg.v" \
+"../../../../Problem3.srcs/sources_1/new/singlePulser.v" \
+"../../../../Problem3.srcs/sources_1/new/system.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
